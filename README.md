@@ -1,6 +1,6 @@
 # The Web Developer Bootcamp 2024 - Course Code
 
-This repository contains all the code provided in the course **"The Web Developer Bootcamp 2024"** by Colt Steele on Udemy.
+This repository contains all the code provided in the course **"[The Web Developer Bootcamp 2024](https://www.udemy.com/course/the-web-developer-bootcamp/)"** by **Colt Steele** Udemy.
 
 ## About the Course
 
