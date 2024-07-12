@@ -15,16 +15,43 @@ The Web Developer Bootcamp 2024 is a comprehensive web development course that c
 This repository is organized by sections and lectures, mirroring the structure of the course. Each folder contains the code examples, projects, and exercises from the corresponding sections of the course.
 
 ### Sections Included:
-- Introduction to HTML
-- Styling with CSS
-- JavaScript Basics
-- DOM Manipulation
-- Advanced JavaScript
-- Node.js and Express
-- Working with Databases
-- Authentication and Security
-- Front-End Frameworks
-- Deployment and Best Practices
+How The Web Works
+HTML5
+Semantic HTML
+Accessibility
+CSS3 Essentials
+Flexbox & Layout
+CSS Animations
+Responsive Design
+CSS Frameworks
+Bootstrap 4 & 5
+JavaScript Basics
+All Modern JS Syntax
+DOM Manipulation
+Asynchronous JavaScript
+AJAX & JSON
+Working with API's
+Using the Terminal
+Unix Commands
+NodeJS & NPM
+Express
+Web Frameworks
+Templating
+RESTful API's
+Databases
+Mongo DB
+Developer Mindset
+Security
+Deploying
+Mongo Cloud Atlas
+Mongoose
+Schema Design
+Authentication
+Authorization
+Cookies & Sessions
+Image Upload
+Geocoding & Maps
+
 
 ## How to Use
 
